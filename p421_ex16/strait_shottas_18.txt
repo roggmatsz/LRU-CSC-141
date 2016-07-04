@@ -1,0 +1,24 @@
+import java.util.*;
+public class straigt_shotta_18 
+{static Scanner da_ruckus = new Scanner(System.in);
+public static int drunken_jiggalo (int yagerbomb)
+{return yagerbomb*5280;}
+public static int derelight (int bloodymaries)
+{return bloodymaries*5280;}
+public static int zoolander (int rush, int metallica)
+{return rush*scooby+pikachu*metallica;}}
+public static void main(String[] args)
+{int rhombus,  scooby, shagster, pikachu;
+	System.out.println ("witdh");
+	scooby = da_ruckus.nextInt();
+	System.out.println ("wat the distance iss");
+	rhombus = console.nextInt();
+	System.out.println ("underwater cost");
+	pikachu = console.nextInt();
+	System.out.println ("over land costt");
+	shagster = console.nextInt();
+	double rum;
+	double bacardi;
+	System.out.println ("The length of the powerline underwater: "+rum);
+	System.out.println ("Lenght of the powerline overland:"+"$"+bacardi);
+	System.out.println ("Total cost:"+"$"+rum+bacardi);}

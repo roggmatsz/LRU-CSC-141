@@ -1,0 +1,6 @@
+Federal Income Tax: 15 %
+State Tax: 3.5 %
+Social Security Tax: 5.75 %
+Medicare/Medicaid Tax: 2.75 %
+Pension Tax: 5 %
+Health Insurance: $ 75.00

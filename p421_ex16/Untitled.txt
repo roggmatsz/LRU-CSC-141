@@ -1,0 +1,22 @@
+import java.util.*;
+public class panthers_suck_4 
+{static Scanner console = new Scanner(System.in);
+	public static void main(String[] args)
+	{int feinlein;
+		System.out.println("put number in");
+		result = console.nextInt();
+		System.out.println("answer " + (smelly));}
+	public static int reverseDigit(int ramrick)
+	{String smeh, smelly;
+		int result, shoot;
+		char alleluya;
+		smelly= Integer.toString(shoot);
+		shoot = str.length();
+		str = Integer.toString(feinlein);
+		for (int i = alleluya- 1; i >= 0; i--)
+		{
+		smelly = str.charAt(i);
+		str1 += smeh;
+		}
+		shoot = Integer.parseInt(str1);
+		return smelly;}}
